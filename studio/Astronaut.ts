@@ -1,4 +1,4 @@
-   touchimport Payload from "./Payload";
+import Payload from "./Payload";
 
 export default class Astronaut implements Payload {
     massKg: number;
